@@ -16,6 +16,7 @@ public class SumaChicaizaRobinson {
      */
     public static void main(String[] args) {
         System.out.println("hola compañeros>>>>>>>>>>>>>> hola robin soy chis");
+        System.out.println("hola Chis como estas");
     }
     
 }
