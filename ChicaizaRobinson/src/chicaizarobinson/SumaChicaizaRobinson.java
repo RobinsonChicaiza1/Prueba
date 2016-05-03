@@ -15,7 +15,7 @@ public class SumaChicaizaRobinson {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("hola compañeros");
+        System.out.println("hola compañeros>>>>>>>>>>>>>> hola robin soy chis");
     }
     
 }
